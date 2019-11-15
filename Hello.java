@@ -2,7 +2,7 @@ public class Hello
 {
 	public static void main(String argv[])
 	{
-		// Bad, but staged :(
+		// Default is "World"
 		String name = "World";
 		if(argv.length !=){
 			name = argv[0];
